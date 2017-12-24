@@ -1,0 +1,5 @@
+hello {{ data }}
+{{date}}
+{{ helper.relativeTime(date) }}
+{{t}}
+{{cache}}
